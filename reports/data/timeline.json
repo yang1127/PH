@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "YZQ.local",
+    "children" : [ {
+      "name" : "69175-MainThread",
+      "children" : [ {
+        "name" : "testcase description",
+        "uid" : "db7e18c88dc22b33",
+        "parentUid" : "4eab2ceeff2983b0413b27b04dc60347",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646132934222,
+          "stop" : 1646132935097,
+          "duration" : 875
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4eab2ceeff2983b0413b27b04dc60347"
+    } ],
+    "uid" : "e7df3120c9871f59d765d0a3399208fc"
+  } ]
+}
