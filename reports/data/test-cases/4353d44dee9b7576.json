@@ -1,15 +1,15 @@
 {
-  "uid" : "db7e18c88dc22b33",
+  "uid" : "4353d44dee9b7576",
   "name" : "testcase description",
   "fullName" : "testcases.test_test.TestCaseTest#test_start",
   "historyId" : "bb30f2105154be5996f023e20bfc497e",
   "time" : {
-    "start" : 1646132934222,
-    "stop" : 1646132935097,
-    "duration" : 875
+    "start" : 1675675826969,
+    "stop" : 1675675827596,
+    "duration" : 627
   },
-  "description" : "TestCase ID: bc2868f7-164d-479c-b471-50ddc71ab49b",
-  "descriptionHtml" : "<p>TestCase ID: bc2868f7-164d-479c-b471-50ddc71ab49b</p>\n",
+  "description" : "TestCase ID: 771c6fd7-1c47-4058-baa0-77403f0a9a39",
+  "descriptionHtml" : "<p>TestCase ID: 771c6fd7-1c47-4058-baa0-77403f0a9a39</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -19,36 +19,36 @@
   "retriesStatusChange" : false,
   "beforeStages" : [ ],
   "testStage" : {
-    "description" : "TestCase ID: bc2868f7-164d-479c-b471-50ddc71ab49b",
+    "description" : "TestCase ID: 771c6fd7-1c47-4058-baa0-77403f0a9a39",
     "status" : "passed",
     "steps" : [ {
       "name" : "step: /third/wallet/accounts/v1",
       "time" : {
-        "start" : 1646132934231,
-        "stop" : 1646132935096,
-        "duration" : 865
+        "start" : 1675675826980,
+        "stop" : 1675675827596,
+        "duration" : 616
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
+      "hasContent" : false,
       "stepsCount" : 0,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
-      "hasContent" : false
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ {
-      "uid" : "334500b069f57073",
+      "uid" : "22b475085a71a186",
       "name" : "stderr",
-      "source" : "334500b069f57073.txt",
+      "source" : "22b475085a71a186.txt",
       "type" : "text/plain",
-      "size" : 2876
+      "size" : 2915
     } ],
     "parameters" : [ ],
+    "hasContent" : true,
     "stepsCount" : 1,
     "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -62,10 +62,10 @@
     "value" : "TestCaseTest"
   }, {
     "name" : "host",
-    "value" : "YZQ.local"
+    "value" : "YZQ"
   }, {
     "name" : "thread",
-    "value" : "69175-MainThread"
+    "value" : "63537-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -89,6 +89,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "db7e18c88dc22b33.json",
+  "source" : "4353d44dee9b7576.json",
   "parameterValues" : [ ]
 }
