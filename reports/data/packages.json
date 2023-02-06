@@ -5,13 +5,13 @@
     "name" : "testcases.test_test",
     "children" : [ {
       "name" : "testcase description",
-      "uid" : "4353d44dee9b7576",
+      "uid" : "614a0876a579eb92",
       "parentUid" : "e9d092157fde082a93fa420dbae7be2a",
       "status" : "passed",
       "time" : {
-        "start" : 1675675826969,
-        "stop" : 1675675827596,
-        "duration" : 627
+        "start" : 1675676791460,
+        "stop" : 1675676792063,
+        "duration" : 603
       },
       "flaky" : false,
       "newFailed" : false,

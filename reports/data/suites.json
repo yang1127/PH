@@ -9,13 +9,13 @@
         "name" : "TestCaseTest",
         "children" : [ {
           "name" : "testcase description",
-          "uid" : "4353d44dee9b7576",
+          "uid" : "614a0876a579eb92",
           "parentUid" : "507234d4e0610ca93b8b6bd47ef749c6",
           "status" : "passed",
           "time" : {
-            "start" : 1675675826969,
-            "stop" : 1675675827596,
-            "duration" : 627
+            "start" : 1675676791460,
+            "stop" : 1675676792063,
+            "duration" : 603
           },
           "flaky" : false,
           "newFailed" : false,
